@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AvoidGame">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/AvoidGame_jar/AvoidGame.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

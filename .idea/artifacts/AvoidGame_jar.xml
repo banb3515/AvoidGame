@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AvoidGame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AvoidGame_jar</output-path>
+    <root id="archive" name="AvoidGame.jar">
+      <element id="module-output" name="AvoidGame" />
+    </root>
+  </artifact>
+</component>
