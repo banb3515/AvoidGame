@@ -20,11 +20,11 @@
 
 > ### **스크린샷**
 >
-> ![Avoid Game 스크린샷1](https://gitlab.com/BanB3515/AvoidGame/-/raw/master/Screenshots/Screenshot1.png)
+> ![Avoid Game 스크린샷1](https://gitlab.com/BanB3515/AvoidGame/-/raw/main/Screenshots/Screenshot1.png)
 >
-> ![Avoid Game 스크린샷2](https://gitlab.com/BanB3515/AvoidGame/-/raw/master/Screenshots/Screenshot2.png)
+> ![Avoid Game 스크린샷2](https://gitlab.com/BanB3515/AvoidGame/-/raw/main/Screenshots/Screenshot2.png)
 >
-> ![Avoid Game 스크린샷3](https://gitlab.com/BanB3515/AvoidGame/-/raw/master/Screenshots/Screenshot3.png)
+> ![Avoid Game 스크린샷3](https://gitlab.com/BanB3515/AvoidGame/-/raw/main/Screenshots/Screenshot3.png)
 
 ---
 
