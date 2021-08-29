@@ -1,6 +1,6 @@
 # **Avoid Game**
 
-> ### **[Portfolio - AvoidGame](http://banb.work/Portfolio/AvoidGame)**
+> ### **[Project - AvoidGame](http://banb.work/Project/AvoidGame)**
 
 ---
 
